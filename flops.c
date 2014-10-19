@@ -56,6 +56,7 @@ int main (int argc, char **argv)
 	double t;
 	struct rusage ru;
 	printf("FLOPS\n");
+	printf("GCC version: " __VERSION__ "\n");
 	initm(X);
 	getrusage(RUSAGE_SELF, &ru);
 	t = ru.ru_utime.tv_sec
