@@ -72,7 +72,7 @@ int main (int argc, char **argv)
 		- t;
 	printf("Ops count: %llu\n", nop);
 	printf("Time spent: %.2e sec\n", t);
-	printf("MFLOPS: %.0f\n", 1e-6 * nop / t );
+	printf("MFLOPS: %.2f\n", 1e-6 * nop / t );
 #ifdef PRINTM
 	printm(X);
 #endif
