@@ -12,3 +12,4 @@
 |229|Netlogic XLP316 MIPS64r2 @ 1.0GHz|
 |0.95|Atheros AR7240 rev 2 MIPS 24Kc V7.4 @ 200MHz|
 |41.06|MIPS-compatible processor JZ4770 Ingenic Xburst @ 1.0 GHz|
+|6.48|Qualcomm MSM7227 ARMv6-compatible processor rev 5 (v6l) @ 600 MHz|
