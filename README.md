@@ -1,4 +1,4 @@
-|FLOPS|CPU info|
+|MFLOPS|CPU info|
 |:----|:-------|
 |567|AMD E2-1800 APU with Radeon(tm) HD Graphics|
 |4625|Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz|
