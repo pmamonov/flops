@@ -13,3 +13,4 @@
 |0.95|Atheros AR7240 rev 2 MIPS 24Kc V7.4 @ 200MHz|
 |41.06|MIPS-compatible processor JZ4770 Ingenic Xburst @ 1.0 GHz|
 |6.48|Qualcomm MSM7227 ARMv6-compatible processor rev 5 (v6l) @ 600 MHz|
+|2709.97|Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz|
